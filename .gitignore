@@ -1,0 +1,16 @@
+# Proiectul Vivado (se regenereaza din script Tcl)
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.gen/
+*.srcs/
+*.sim/
+
+# Loguri si fisiere temporare
+*.jou
+*.log
+*.str
+*.backup.*
+.Xil/
